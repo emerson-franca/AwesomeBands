@@ -2,4 +2,4 @@
 
 App using expo
 
-use expo start to open start the project
+use ```yarn install``` and ```expo start``` to open the project
